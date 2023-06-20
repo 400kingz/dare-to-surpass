@@ -1,0 +1,263 @@
+{
+  "posts": [
+    {
+      "post_title": "Altum",
+      "custom_meta_input": {
+        "client": {
+          "value": "Altum CBD",
+          "type": "PlainText"
+        },
+        "project-details": {
+          "value": "<h1 id=\"\">YEAHHH</h1><p id=\"\">‍</p><h2 id=\"\">lets gooo</h2>",
+          "type": "RichText"
+        },
+        "year": {
+          "value": "2017",
+          "type": "PlainText"
+        },
+        "images": {
+          "value": [
+            {
+              "url": "https://uploads-ssl.webflow.com/648915be7442a2bef74b67e1/648b3dbcfde00f4b2da0ad9a_Altum-Showcase-Brand-Symmetry.webp",
+              "alt": null
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/648915be7442a2bef74b67e1/648b3dcb1889aca439addae7_Altum-Showcase-Color-Variance.webp",
+              "alt": null
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/648915be7442a2bef74b67e1/648b3dbc20e79567b63a52e9_Altum-Showcase-Official-Brand-Identity.webp",
+              "alt": null
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/648915be7442a2bef74b67e1/648b3dcb3b5f2f1c9e6d5e1b_Altum-Showcase-Typeface-Alterwave.webp",
+              "alt": null
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/648915be7442a2bef74b67e1/648b3dccb63c52812b73eeb8_Altum-Showcase-Product-Labels.webp",
+              "alt": null
+            }
+          ],
+          "type": "Set"
+        },
+        "next-project": {
+          "value": "wings",
+          "type": "ItemRef",
+          "ref": "project",
+          "refType": "post"
+        },
+        "bgcolor": {
+          "value": "#344d46",
+          "type": "Color"
+        }
+      },
+      "post_excerpt": "Branding, Packaging, Website",
+      "post_name": "altum-cbd",
+      "_thumbnail_id": {
+        "url": "https://uploads-ssl.webflow.com/648915be7442a2bef74b67e1/648b3b85e77707c9cf0d202b_Altum-Showcase-Interior.webp",
+        "alt": null
+      },
+      "post_modified": "2023-06-15T16:52:58.103Z",
+      "post_date": "2023-06-15T16:52:58.103Z",
+      "post_content": "<p>Branding<br>Packaging<br>Website</p><p>‍</p>",
+      "post_type": "project"
+    },
+    {
+      "post_title": "Buffalo Wings & Rings",
+      "custom_meta_input": {
+        "client": {
+          "value": "Buffalo Wings & Rings",
+          "type": "PlainText"
+        },
+        "project-details": {
+          "value": "<h1 id=\"\">Buffalo</h1><h2>WINGS&nbsp;&amp; RINGS</h2>",
+          "type": "RichText"
+        },
+        "year": {
+          "value": "2018",
+          "type": "PlainText"
+        },
+        "images": {
+          "value": [
+            {
+              "url": "https://uploads-ssl.webflow.com/648915be7442a2bef74b67e1/649095597132b4c9313f816f_Buffalo-Wings-Rings-Facebook-Post-2.webp",
+              "alt": null
+            }
+          ],
+          "type": "Set"
+        },
+        "bgcolor": {
+          "value": "#f4b62c",
+          "type": "Color"
+        },
+        "next-project": {
+          "value": "ftwb",
+          "type": "ItemRef",
+          "ref": "project",
+          "refType": "post"
+        }
+      },
+      "post_excerpt": "Graphic Design, Website",
+      "post_name": "wings",
+      "_thumbnail_id": {
+        "url": "https://uploads-ssl.webflow.com/648915be7442a2bef74b67e1/6490951cadb6c81b5df9c495_Buffalo-Wings-Rings-Facebook-Postzx.webp",
+        "alt": null
+      },
+      "post_modified": "2023-06-19T17:50:35.138Z",
+      "post_date": "2023-06-19T18:17:19.193Z",
+      "post_content": "<p id=\"\">Graphic Design<br>Website</p><p>‍</p>",
+      "post_type": "project"
+    },
+    {
+      "post_title": "For The Wild Birds",
+      "custom_meta_input": {
+        "client": {
+          "value": "For The Wild Birds",
+          "type": "PlainText"
+        },
+        "project-details": {
+          "value": "<h1 id=\"\">a whole buncha stuff</h1><h2 id=\"\">a whole buncha stuff</h2><h3 id=\"\">a whole buncha stuff fr fr</h3><p>no fr we did a whole lot to em</p><p>‍</p>",
+          "type": "RichText"
+        },
+        "year": {
+          "value": "2021",
+          "type": "PlainText"
+        },
+        "images": {
+          "value": [
+            {
+              "url": "https://uploads-ssl.webflow.com/648915be7442a2bef74b67e1/648a919501cd6f265bd05ea4_ftwbwebn.jpg",
+              "alt": null
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/648915be7442a2bef74b67e1/648a91e593490a62097711d6_webexftwb.jpg",
+              "alt": null
+            }
+          ],
+          "type": "Set"
+        },
+        "next-project": {
+          "value": "bluffs",
+          "type": "ItemRef",
+          "ref": "project",
+          "refType": "post"
+        },
+        "bgcolor": {
+          "value": "hsla(0, 82.00%, 50.42%, 1.00)",
+          "type": "Color"
+        }
+      },
+      "post_excerpt": "Web Design, Branding, Graphic Design",
+      "post_name": "ftwb",
+      "_thumbnail_id": {
+        "url": "https://uploads-ssl.webflow.com/648915be7442a2bef74b67e1/648a919501cd6f265bd05ea4_ftwbwebn.jpg",
+        "alt": null
+      },
+      "post_modified": "2023-06-15T04:27:07.054Z",
+      "post_date": "2023-06-15T04:37:46.336Z",
+      "post_content": "<p>Web Design<br>Branding<br>Graphic Design</p><p>‍</p>",
+      "post_type": "project"
+    },
+    {
+      "post_title": "Bluffs Sewing",
+      "custom_meta_input": {
+        "client": {
+          "value": "Bluffs Sewing & Vacuum",
+          "type": "PlainText"
+        },
+        "project-details": {
+          "value": "<h1 id=\"\">a whole buncha stuff</h1><h2 id=\"\">a whole buncha stuff</h2><h3 id=\"\">a whole buncha stuff fr fr</h3><p id=\"\">no fr we did a whole lot to em</p><p id=\"\">‍</p><p id=\"\">‍</p>",
+          "type": "RichText"
+        },
+        "year": {
+          "value": "1776",
+          "type": "PlainText"
+        },
+        "next-project": {
+          "value": "hunt-trading",
+          "type": "ItemRef",
+          "ref": "project",
+          "refType": "post"
+        },
+        "images": {
+          "value": [
+            {
+              "url": "https://uploads-ssl.webflow.com/648915be7442a2bef74b67e1/648a92d2a9f037e57801d33a_image3.jpg",
+              "alt": null
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/648915be7442a2bef74b67e1/648a91fb67de68a6c9f96b0c_webexbluffs.jpg",
+              "alt": null
+            }
+          ],
+          "type": "Set"
+        },
+        "bgcolor": {
+          "value": "hsla(0, 0.00%, 14.41%, 1.00)",
+          "type": "Color"
+        }
+      },
+      "post_excerpt": "Graphic Design, Branding",
+      "_thumbnail_id": {
+        "url": "https://uploads-ssl.webflow.com/648915be7442a2bef74b67e1/648a91fb67de68a6c9f96b0c_webexbluffs.jpg",
+        "alt": null
+      },
+      "post_name": "bluffs",
+      "post_modified": "2023-06-15T04:27:03.288Z",
+      "post_date": "2023-06-15T04:37:46.336Z",
+      "post_content": "<p>Graphic Design<br>Branding</p>",
+      "post_type": "project"
+    },
+    {
+      "post_title": "The Hunt",
+      "custom_meta_input": {
+        "client": {
+          "value": "The Hunt Trading",
+          "type": "PlainText"
+        },
+        "project-details": {
+          "value": "<h1 id=\"\">ong we did a lot of cool stuff together </h1><p>‍</p><h2>like a whole lot </h2><h1>‍</h1>",
+          "type": "RichText"
+        },
+        "year": {
+          "value": "2019",
+          "type": "PlainText"
+        },
+        "images": {
+          "value": [
+            {
+              "url": "https://uploads-ssl.webflow.com/648915be7442a2bef74b67e1/648a921901cd6f265bd11bfa_HUNTWEBEX.jpg",
+              "alt": null
+            },
+            {
+              "url": "https://uploads-ssl.webflow.com/648915be7442a2bef74b67e1/648a9261e681ee38e094e066_social-media-consultants-omaha-nebraska-dare-to-surpass.webp",
+              "alt": null
+            }
+          ],
+          "type": "Set"
+        },
+        "bgcolor": {
+          "value": "hsla(47, 58.87%, 49.77%, 1.00)",
+          "type": "Color"
+        }
+      },
+      "post_excerpt": "Web design, Branding",
+      "post_name": "hunt-trading",
+      "_thumbnail_id": {
+        "url": "https://uploads-ssl.webflow.com/648915be7442a2bef74b67e1/648a921901cd6f265bd11bfa_HUNTWEBEX.jpg",
+        "alt": null
+      },
+      "post_modified": "2023-06-15T04:26:45.702Z",
+      "post_date": "2023-06-15T04:37:46.336Z",
+      "post_content": "<h1 id=\"\">a whole buncha stuff</h1><h2 id=\"\">a whole buncha stuff</h2><h3 id=\"\">a whole buncha stuff fr fr</h3><p id=\"\">no fr we did a whole lot to em</p><p id=\"\">‍</p><p>‍</p>",
+      "post_type": "project"
+    },
+    {
+      "post_name": "index",
+      "post_title": "Home",
+      "post_type": "page"
+    }
+  ],
+  "terms": [],
+  "users": []
+}
